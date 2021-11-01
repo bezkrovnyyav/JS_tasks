@@ -1,0 +1,11 @@
+{
+    "name": "Animal_classes",
+    "version": "1.0.0",
+    "description": "demo",
+    "author": "",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {},
+    "type": "module"
+  }
