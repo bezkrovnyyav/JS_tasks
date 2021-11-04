@@ -1,0 +1,12 @@
+{
+    "name": "OOP_JS",
+    "version": "1.0.0",
+    "description": "OOP",
+    "author": "Andrii Bezkrovnyi",
+    "license": "ISC",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {},
+    "type": "module"
+
+  }
