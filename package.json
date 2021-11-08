@@ -1,7 +1,7 @@
 {
-    "name": "OOP_JS",
+    "name": "promises and async/await",
     "version": "1.0.0",
-    "description": "OOP",
+    "description": "promises",
     "author": "Andrii Bezkrovnyi",
     "license": "ISC",
     "dependencies": {},
