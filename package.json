@@ -1,5 +1,5 @@
 {
-    "name": "task_students",
+    "name": "task_calculator",
     "version": "1.0.0",
     "description": "tests_via_mocha",
     "author": "Andrii Bezkrovnyi",
@@ -11,6 +11,8 @@
         "mocha": "^9.1.3",
         "randomstring": "^1.2.1"
     },
-    "scripts": {},
+    "scripts": {
+      "test": "mocha ./tests/*.js"
+    },
     "type": "module"
 }
