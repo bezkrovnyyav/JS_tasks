@@ -1,8 +1,4 @@
 # JS_tasks
-1. Create student object and set ënameí, ësurnameí and ërate:
-- Name and surname generate using randomstring
-- Rate generate using Math, in range 1-100
-2. Use JSON.stringify() method to make student a JSON string and write it into file (not existed)
-3. Read previous string from file and convert to object
-4. Make some change to object and append it as new line to existed file
-
+1. Develop a simple calculator function (+, -, /, * operations), like calc(3, 3, ‚Äú+‚Äù) should return 6 (3+3). Also, handle a cases when not supported math operation is provided or wrong data format
+2. Create a test suite file to verify if calculator function works correctly for positive scenarios
+3. Create a test suite file to verify if calculator function works correctly for negative scenarios
